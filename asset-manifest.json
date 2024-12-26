@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab3804c6.css",
-    "main.js": "/static/js/main.5db6de77.js",
-    "static/js/453.847a2e84.chunk.js": "/static/js/453.847a2e84.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.ab3804c6.css.map": "/static/css/main.ab3804c6.css.map",
-    "main.5db6de77.js.map": "/static/js/main.5db6de77.js.map",
-    "453.847a2e84.chunk.js.map": "/static/js/453.847a2e84.chunk.js.map"
+    "main.css": "/number-puzzle/static/css/main.ab3804c6.css",
+    "main.js": "/number-puzzle/static/js/main.90729cc7.js",
+    "static/js/453.847a2e84.chunk.js": "/number-puzzle/static/js/453.847a2e84.chunk.js",
+    "static/media/logo.svg": "/number-puzzle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/number-puzzle/index.html",
+    "main.ab3804c6.css.map": "/number-puzzle/static/css/main.ab3804c6.css.map",
+    "main.90729cc7.js.map": "/number-puzzle/static/js/main.90729cc7.js.map",
+    "453.847a2e84.chunk.js.map": "/number-puzzle/static/js/453.847a2e84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab3804c6.css",
-    "static/js/main.5db6de77.js"
+    "static/js/main.90729cc7.js"
   ]
 }
